@@ -1,0 +1,1 @@
+# cama_trazos_mano_alzada
